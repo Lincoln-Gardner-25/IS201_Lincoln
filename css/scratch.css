@@ -1,0 +1,66 @@
+.nav-bar{
+    background-color: whitesmoke;
+    width: auto;
+    text-align:right;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+
+}
+a{
+text-decoration: none;
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+
+
+.head{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#homeicon{
+    width: 50px;  
+}
+
+.timeline{
+    text-align: center;
+    font-size: 50px;
+}
+
+#ul{
+    font-size: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+#videointro{
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+
+}
+.video-contain{
+    text-align: center;
+}
+
+.tableauPlaceholder{
+    text-align: center;
+}
+
+#tableaupic{
+    width: 150px;
+    align-items: center;
+    padding-left: 800px;
+}
